@@ -21,8 +21,6 @@ check out our [project report](https://github.com/harishpuvvada/LoanDefault-Pred
 * Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
 * Visualization: plotly
 
-## Data Source:
-https://www.lendingclub.com/info/download-data.action
 
 
  
